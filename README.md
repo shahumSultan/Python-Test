@@ -1,4 +1,4 @@
-# How to Run the Quix
+# How to Run the Quiz
 
 ## Steps
 - Clone the repo
