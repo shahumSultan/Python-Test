@@ -6,4 +6,4 @@
 - Your time will be noted
 - Your progress is going to noted in this quiz
 
-# NOT TO USE GPT OR GOOGLE
+# DO NOT USE CHAT-GPT OR GOOGLE

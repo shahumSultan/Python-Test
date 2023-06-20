@@ -9,3 +9,9 @@
 #Constraints => 1 ­≤ n ≤ 100
 
 ######code below this line######
+
+
+
+######do not change these lines, only add functionalites if needed######
+if __name__ == '__main__':
+    n = int(input().strip())
