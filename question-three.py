@@ -1,5 +1,5 @@
 #Task (Swap-Case)
-#Given an string, , perform the following actions:
+#Given an string, perform the following actions:
 #   - Swap the cases, convert all lowercase to uppercase letters and vice versa
 #   - Print the final output
 

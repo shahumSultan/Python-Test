@@ -1,5 +1,5 @@
 #Task (Runner-Up Score)
-#Given an list, , perform the following actions:
+#Given an list, perform the following actions:
 #   - Create two functions (one for creating the list, second for the printing the runner-up score)
 #   - Input a number to create a list
 #   - Print the runner-up score
